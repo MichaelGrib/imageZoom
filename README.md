@@ -11,7 +11,7 @@ or id
 `` new ImageZoom('#id').mount() ``
 
 
-### With HTML
+### HTML
 ---
 
 `` <link rel="stylesheet" href="imagezoom.css"> ``
