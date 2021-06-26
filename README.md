@@ -2,7 +2,7 @@
 
 Create new ImageZoom with own selector and mount it
 
-use class selector
+add class
 
 `` new ImageZoom('.class').mount() ``
 
