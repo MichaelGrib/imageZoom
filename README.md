@@ -1,9 +1,26 @@
 # imageZoom
 
-import {ImageZoom} from './imagezoom.js'
+Create new ImageZoom with own selector and mount it
 
-new ImageZoom('.class').mount
+use class selector
 
-or
+`` new ImageZoom('.class').mount() ``
 
-new ImageZoom('#id').mount
+or id
+
+`` new ImageZoom('#id').mount() ``
+
+
+### With HTML
+---
+
+`` <link rel="stylesheet" href="imagezoom.css"> ``
+
+`` <script src="imagezoom.js"></script> ``
+
+### JS Modules
+---
+`` import {ImageZoom} from 'imagezoom.js' ``
+
+
+
